@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 '''Convert to and from Roman numerals
 
 This program is part of 'Dive Into Python 3', a free Python book for

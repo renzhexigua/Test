@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 '''Unit test for roman1.py
 
 This program is part of 'Dive Into Python 3', a free Python book for
